@@ -1,0 +1,14 @@
+# Python Requirements for Real Estate Price Analysis (City-wise) - Mumbai Housing Market
+#
+# To install all dependencies in your local environment, run:
+#   pip install -r requirements.txt
+
+jupyter>=1.0.0
+matplotlib==3.10.8
+nbconvert==7.17.1
+nbformat==5.10.4
+numpy==2.4.4
+pandas==3.0.2
+pymysql==1.2.0
+seaborn==0.13.2
+sqlalchemy==2.0.50
